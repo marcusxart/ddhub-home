@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ddhub-home/static/css/main.733cd363.css",
+    "main.js": "/ddhub-home/static/js/main.e60402e7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ddhub-home/static/js/787.28cb0dcd.chunk.js",
+    "static/media/big-laptop.svg": "/ddhub-home/static/media/big-laptop.145bc72aaa6a4c58a05f87a38c046116.svg",
+    "static/media/phone.svg": "/ddhub-home/static/media/phone.6a450017ff5e93da2f5df30453127322.svg",
+    "static/media/laptop.svg": "/ddhub-home/static/media/laptop.8664dfc11ce3e66da291d2185d100d72.svg",
+    "static/media/services-img1.png": "/ddhub-home/static/media/services-img1.fd86333ba10d5f87f102.png",
+    "static/media/services-img3.png": "/ddhub-home/static/media/services-img3.57adf17b84f667e8453c.png",
+    "static/media/services-img2.png": "/ddhub-home/static/media/services-img2.b10bc2d330fde2ab11c9.png",
+    "static/media/grid-img2.png": "/ddhub-home/static/media/grid-img2.1e9ea4c788dd5d396abd.png",
+    "static/media/grid-img6.png": "/ddhub-home/static/media/grid-img6.fc91c00429e871e2a85a.png",
+    "static/media/grid-img3.png": "/ddhub-home/static/media/grid-img3.93712dc86e6bd46dcd51.png",
+    "static/media/grid-img1.png": "/ddhub-home/static/media/grid-img1.407e2ab027f947532e70.png",
+    "static/media/grid-img4.png": "/ddhub-home/static/media/grid-img4.318ec699f0cc386a18db.png",
+    "static/media/grid-img5.png": "/ddhub-home/static/media/grid-img5.21053122c8d835ef9dac.png",
+    "static/media/question.svg": "/ddhub-home/static/media/question.82c4eb18197ad5ec67eb96d339985410.svg",
+    "static/media/Logo.svg": "/ddhub-home/static/media/Logo.c377639acc0537df39a9e56f65beadb4.svg",
+    "static/media/group-img-sm.png": "/ddhub-home/static/media/group-img-sm.6a733dff41b02d285382.png",
+    "static/media/Plug.svg": "/ddhub-home/static/media/Plug.89a8de92b764c1fa0a89b02368419de7.svg",
+    "static/media/instagram.svg": "/ddhub-home/static/media/instagram.e1fa7638c09399d4e350bf973c34f324.svg",
+    "static/media/linkedin.svg": "/ddhub-home/static/media/linkedin.0a5616618e22863e855a9e69a450c42b.svg",
+    "static/media/twitter.svg": "/ddhub-home/static/media/twitter.f2737a974c52bdefa0293ac1b9c914d4.svg",
+    "index.html": "/ddhub-home/index.html",
+    "static/media/facebook.svg": "/ddhub-home/static/media/facebook.e43b5c338eab0193d04bcc37e4d0c0be.svg",
+    "main.733cd363.css.map": "/ddhub-home/static/css/main.733cd363.css.map",
+    "main.e60402e7.js.map": "/ddhub-home/static/js/main.e60402e7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ddhub-home/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733cd363.css",
+    "static/js/main.e60402e7.js"
+  ]
+}
